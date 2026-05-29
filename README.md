@@ -153,13 +153,14 @@ A minimalist Google Drive clone built using Node.js and Supabase.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raw-surajit&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=raw-surajit&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
