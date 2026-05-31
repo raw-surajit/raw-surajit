@@ -146,7 +146,7 @@
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/raw-surajit/raw-surajit/main/openai.svg" alt="OpenAI" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/raw-surajit/raw-surajit/main/openai.png" alt="OpenAI" width="65" height="65" />
       <br>OpenAI
     </td>
     <td align="center" width="96">
