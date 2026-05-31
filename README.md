@@ -1,238 +1,195 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surajit%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C3%97%20Full%20Stack%20Developer%20%C3%97%20ECE-to-Software&descAlignY=55&descSize=16" width="100%" />
-</div>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Surajit+Roy;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Production-Level+Projects;Exploring+AI%2C+Web+Dev+%26+IoT" alt="Typing SVG" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&repeat=true&width=600&lines=Building+AI-powered+production+software.;Full+Stack+%2B+Generative+AI+%2B+IoT+Systems.;From+ECE+circuits+to+LLM+pipelines.;Shipping+real+products+%E2%80%94+not+just+demos." alt="Typing SVG" /></a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajit-roy-049271294)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-raw--surajit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raw-surajit)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=raw-surajit&color=00f5d4&style=flat-square&label=Profile+Views)](https://github.com/raw-surajit)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-## 👾 whoami
+# 💫 About Me
 
-```yaml
-name        : Surajit Roy
-role        : AI Engineer & Full Stack Developer
-degree      : B.Tech — Electronics & Communication Engineering (ECE)
-focus       : Full Stack · Generative AI · Machine Learning · IoT
-mission     : Ship production-grade software that solves real problems.
-status      : Building · Learning · Shipping 🚀
-```
-
-> *My ECE background gives me a systems-level perspective most developers lack — I think in signals, feedback loops, and optimization. Now I apply that thinking to software: from databases and REST APIs all the way up to LLM-powered applications.*
+🎓 B.Tech Student in Electronics & Communication Engineering (ECE)
+💻 Passionate about **Full Stack Development**, **AI/ML**, and **IoT Systems**
+🚀 Focused on building **production-level real-world applications**
+🧠 Exploring intelligent systems powered by **LLMs & Generative AI**
+⚡ Love combining software + hardware to solve practical problems
+🎯 Goal: To work in the Software/IT Industry and launch impactful tech products
 
 ---
 
-## 🎯 What I'm Building Towards
+# 🌐 Connect With Me
 
-**AI × Full Stack** is the most important intersection in software right now — and I'm building at exactly that frontier. I don't just integrate AI as a feature; I architect systems where intelligence is the core.
-
-- 🔭 Currently deepening: **React + Node.js production architecture** & **RAG-based AI systems**
-- 🧠 Exploring: **LangChain · pgvector · Agentic AI workflows**
-- 🌱 Next: **TypeScript + Next.js** · **Docker & CI/CD** · **Open Source contributions**
-- 💬 Ask me about: **LLM API integration, ML pipelines, IoT + Cloud systems**
-
----
-
-## ⚡ Tech Arsenal
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI / ML / LLM**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_%7C_Llama_3.3-black?style=flat-square&logo=meta&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
+<p align="left">
+<a href="https://www.linkedin.com/in/surajit-roy-049271294">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
 
-### ❤️ Heart Disease Prediction &nbsp;·&nbsp; `Python` `Scikit-Learn` `Streamlit`
+## 🚀 Languages
 
-End-to-end ML web application predicting cardiovascular disease risk from clinical parameters. Full pipeline: data preprocessing → feature engineering → model training → real-time inference via Streamlit. Deployable with interpretable probability scores — not just a notebook.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/raw-surajit/Heart-Disease-Prediction)
-
----
-
-### 🤖 AI Code Reviewer &nbsp;·&nbsp; `Gemini 2.0 Flash` `React` `Full Stack`
-
-AI-powered developer tool that reviews code, detects bugs, suggests production-quality fixes, and recommends best practices in real time. Powered by Gemini 2.0 Flash for near-instant AI responses with a clean full-stack frontend.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/raw-surajit/AI-Code-Reviewer)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
 ---
 
-### 🛒 AI Grocery Assistant &nbsp;·&nbsp; `Flask` `Groq` `Llama 3.3`
+## 🎨 Frontend Development
 
-Intelligent grocery list generator using Llama 3.3 via Groq's ultra-fast inference API. Natural language input → structured, context-aware grocery lists. Sub-second response times make it feel like a native app, not a chatbot.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/raw-surajit/AI-Grocery-Assistant)
-
----
-
-### ☁️ Drive &nbsp;·&nbsp; `Node.js` `Supabase` `PostgreSQL`
-
-Minimal, production-grade Google Drive clone with file upload, storage, and retrieval — built on Supabase's real-time PostgreSQL backbone. Clean architecture that scales.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/raw-surajit/drive)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ---
 
-### ☀️ Dual Axis Solar Tracker &nbsp;·&nbsp; `Arduino` `Embedded C` `IoT`
+## ⚙️ Backend Development
 
-Hardware + firmware system for autonomous dual-axis solar panel tracking using servo motors and LDR sensors. Maximizes energy yield through real-time sun-following algorithms — from circuit design to deployed hardware.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/raw-surajit/Dual-Axis-Solar-Tracker)
-
----
-
-### 🩺 IoT Health Monitor &nbsp;·&nbsp; `ESP32` `Cloud` `Sensors`
-
-ESP32-based system monitoring heart rate, SpO2, and environmental conditions in real time. Full IoT pipeline: sensor → microcontroller → cloud → remote dashboard visualization.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/raw-surajit/IOT-Health-Monitor)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 
 ---
 
-## 🗺️ Roadmap
+## 🗄️ Databases
 
-```
-2024 ─────────────────────────────────────────────── 2026+
-
-[✓] DONE   Full Stack foundations — React · Node · Express
-[✓] DONE   ML production apps — Scikit-Learn + Streamlit
-[✓] DONE   LLM API integration — Gemini · OpenAI · Groq
-[✓] DONE   IoT + Cloud pipeline — ESP32 + cloud database
-[✓] DONE   Supabase + PostgreSQL backend architecture
-
-[→] NOW    RAG systems & vector search (Pinecone / pgvector)
-[→] NOW    System design for scalable APIs
-[→] NOW    Open source contributions
-
-[◎] NEXT   Agentic AI workflows — LangChain · LlamaIndex
-[◎] NEXT   DevOps — Docker · CI/CD · GitHub Actions
-[◎] NEXT   TypeScript + Next.js full-stack applications
-```
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI / ML / Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%2300C4CC.svg?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_Llama_3.3-black?style=for-the-badge)
+
+---
+
+## 📊 Python Libraries
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=plotly\&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&color=525252)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
+## ❤️ Heart Disease Prediction
+
+🔗 https://github.com/raw-surajit/Heart-Disease-Prediction
+
+An end-to-end Machine Learning web application that predicts the risk of heart disease using clinical parameters. Built with Python, Scikit-Learn, and Streamlit.
+
+---
+
+## 🤖 AI Code Reviewer
+
+🔗 https://github.com/raw-surajit/AI-Code-Reviewer
+
+An AI-powered full-stack web application that reviews code snippets, detects bugs, suggests fixes, and provides industry-standard best practices using Google Gemini 2.0 Flash.
+
+---
+
+## ☀️ Dual Axis Solar Tracking System
+
+🔗 https://github.com/raw-surajit/Dual-Axis-Solar-Tracker
+
+Arduino-controlled dual-axis solar tracking and power management system designed to maximize solar energy harvesting efficiency.
+
+---
+
+## 🩺 IoT Based Health Monitoring System
+
+🔗 https://github.com/raw-surajit/IOT-Health-Monitor
+
+ESP32-powered health monitoring device capable of tracking heart rate, SpO2, and environmental conditions with real-time cloud visualization.
+
+---
+
+## 🛒 AI Grocery Assistant
+
+🔗 https://github.com/raw-surajit/AI-Grocery-Assistant
+
+AI-powered grocery list generation web app built with Flask and Groq (Llama 3.3) for ultra-fast AI responses.
+
+---
+
+## ☁️ Drive
+
+🔗 https://github.com/raw-surajit/drive
+
+A minimalist Google Drive clone built using Node.js and Supabase.
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&border_color=21262d&rank_icon=github&hide_border=false" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&border_color=21262d&hide_border=false" height="165" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight" alt="Surajit's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight" alt="Surajit's Top Languages" />
 </div>
 
-<div align="center">
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=raw-surajit&theme=tokyonight&background=0d1117&border=21262d&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="55%" alt="GitHub Streak" />
-</div>
+
+
 
 ---
 
-## 🏆 Trophies
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=raw-surajit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=raw-surajit\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 💬 Dev Quote
+# ✨ Random Dev Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
-## 📬 Let's Connect
+# 👀 Visitor Count
 
-<div align="center">
-
-I'm actively seeking **software engineering internships** and **full-time roles** in Full Stack Development, AI Engineering, or their intersection.
-
-If you're building something meaningful — let's talk.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajit-roy-049271294)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-See_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raw-surajit)
-
-<br/>
-
-</div>
+![](https://komarev.com/ghpvc/?username=raw-surajit\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-
-*Code. Build. Ship. Repeat.*
+### ⚡ “Code. Build. Deploy. Repeat.”
 
 </div>
