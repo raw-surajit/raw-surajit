@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 
 </div>
 
@@ -25,146 +25,212 @@
 <a href="https://www.linkedin.com/in/surajit-roy-049271294">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://github.com/raw-surajit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:surajitroy19856@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 💻 Tech Stack
 
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Coder GIF" />
+</div>
+
 ## 🚀 Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+  </tr>
+</table>
 
 ## 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="65" height="65" />
+      <br>Streamlit
+    </td>
+  </tr>
+</table>
 
 ## ⚙️ Backend Development
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="65" height="65" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" width="65" height="65" />
+      <br>Flask
+    </td>
+  </tr>
+</table>
 
 ## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" width="65" height="65" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="65" height="65" />
+      <br>SQL Server
+    </td>
+  </tr>
+</table>
 
 ## 🤖 AI / ML / Data Science
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%2300C4CC.svg?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_Llama_3.3-black?style=for-the-badge)
-
----
-
-## 📊 Python Libraries
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=plotly\&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-Learn" width="65" height="65" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/raw-surajit/raw-surajit/main/openai.svg" alt="OpenAI" width="65" height="65" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+      <br>Pandas
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tools & Platforms
 
-![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&color=525252)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="65" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="65" height="65" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" width="65" height="65" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" width="65" height="65" />
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Colab" width="65" height="65" />
+      <br>Colab
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" width="65" height="65" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="65" height="65" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## ❤️ Heart Disease Prediction
+<div align="center">
 
-🔗 https://github.com/raw-surajit/Heart-Disease-Prediction
+| 🏷️ Project | 🛠️ Stack | 📄 Description |
+|:---|:---|:---|
+| [❤️ **Heart Disease Prediction**](https://github.com/raw-surajit/Heart-Disease-Prediction) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | End-to-end ML web app predicting heart disease risk from clinical parameters with real-time inference |
+| [🤖 **AI Code Reviewer**](https://github.com/raw-surajit/AI-Code-Reviewer) | ![Gemini](https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | AI-powered tool that reviews code, detects bugs & suggests best practices using Gemini 2.0 Flash |
+| [☀️ **Dual Axis Solar Tracker**](https://github.com/raw-surajit/Dual-Axis-Solar-Tracker) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Autonomous dual-axis solar tracking system using servo motors & LDRs to maximize energy yield |
+| [🩺 **IoT Health Monitor**](https://github.com/raw-surajit/IOT-Health-Monitor) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ESP32-based system tracking heart rate, SpO2 & environment with real-time cloud visualization |
+| [🛒 **AI Grocery Assistant**](https://github.com/raw-surajit/AI-Grocery-Assistant) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_Llama_3.3-black?style=flat-square&logo=meta&logoColor=white) | Intelligent grocery list generator powered by Llama 3.3 via Groq's ultra-fast inference API |
+| [☁️ **Drive**](https://github.com/raw-surajit/drive) | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | Minimal production-grade Google Drive clone built on Node.js and Supabase storage |
 
-An end-to-end Machine Learning web application that predicts the risk of heart disease using clinical parameters. Built with Python, Scikit-Learn, and Streamlit.
-
----
-
-## 🤖 AI Code Reviewer
-
-🔗 https://github.com/raw-surajit/AI-Code-Reviewer
-
-An AI-powered full-stack web application that reviews code snippets, detects bugs, suggests fixes, and provides industry-standard best practices using Google Gemini 2.0 Flash.
-
----
-
-## ☀️ Dual Axis Solar Tracking System
-
-🔗 https://github.com/raw-surajit/Dual-Axis-Solar-Tracker
-
-Arduino-controlled dual-axis solar tracking and power management system designed to maximize solar energy harvesting efficiency.
-
----
-
-## 🩺 IoT Based Health Monitoring System
-
-🔗 https://github.com/raw-surajit/IOT-Health-Monitor
-
-ESP32-powered health monitoring device capable of tracking heart rate, SpO2, and environmental conditions with real-time cloud visualization.
-
----
-
-## 🛒 AI Grocery Assistant
-
-🔗 https://github.com/raw-surajit/AI-Grocery-Assistant
-
-AI-powered grocery list generation web app built with Flask and Groq (Llama 3.3) for ultra-fast AI responses.
-
----
-
-## ☁️ Drive
-
-🔗 https://github.com/raw-surajit/drive
-
-A minimalist Google Drive clone built using Node.js and Supabase.
+</div>
 
 ---
 
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight" alt="Surajit's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight" alt="Surajit's Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github" height="170" alt="GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" height="170" alt="Top Languages" />
+
 </div>
 
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=raw-surajit&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=ffffff&dates=8b949e" width="55%" alt="GitHub Streak" />
 
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=raw-surajit\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
+</div>
 
 ---
 
@@ -178,18 +244,22 @@ A minimalist Google Drive clone built using Node.js and Supabase.
 
 # ✨ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 # 👀 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=raw-surajit\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![](https://komarev.com/ghpvc/?username=raw-surajit&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 <div align="center">
 
-### ⚡ “Code. Build. Deploy. Repeat.”
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
+
+### ⚡ "Code. Build. Deploy. Repeat."
+
+*Feel free to connect — I love collaborating on interesting projects!*
 
 </div>
