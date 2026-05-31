@@ -1,195 +1,338 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Surajit+Roy;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Production-Level+Projects;Exploring+AI%2C+Web+Dev+%26+IoT" alt="Typing SVG" />
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00f5d4&height=200&section=header&text=&animation=fadeIn" />
 
 </div>
 
----
+<div align="center">
 
-# 💫 About Me
-
-🎓 B.Tech Student in Electronics & Communication Engineering (ECE)
-💻 Passionate about **Full Stack Development**, **AI/ML**, and **IoT Systems**
-🚀 Focused on building **production-level real-world applications**
-🧠 Exploring intelligent systems powered by **LLMs & Generative AI**
-⚡ Love combining software + hardware to solve practical problems
-🎯 Goal: To work in the Software/IT Industry and launch impactful tech products
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/surajit-roy-049271294">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Surajit+Roy+%2F%2F+AI+%C3%97+Full+Stack;Building+tomorrow%27s+software+today.;ECE+%E2%86%92+Software+%E2%86%92+AI+Systems.;Production-grade.+Purpose-driven." alt="Typing SVG" />
 </a>
-</p>
 
----
+<br/>
 
-# 💻 Tech Stack
+```
+╔══════════════════════════════════════════════════════════════╗
+║  AI Engineer  ×  Full Stack Developer  ×  ECE-to-Software   ║
+║  Building real products at the intersection of code & AI    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🚀 Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajit-roy-049271294)
+[![GitHub](https://img.shields.io/badge/GitHub-raw--surajit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raw-surajit)
+[![Profile Views](https://komarev.com/ghpvc/?username=raw-surajit&color=00f5d4&style=flat-square&label=Profile+Views)](https://github.com/raw-surajit)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-
----
-
-## 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
----
-
-## ⚙️ Backend Development
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-
----
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
-
----
-
-## 🤖 AI / ML / Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%2300C4CC.svg?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_Llama_3.3-black?style=for-the-badge)
-
----
-
-## 📊 Python Libraries
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=plotly\&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white)
-
----
-
-## 🛠️ Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&color=525252)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-
----
-
-# 🚀 Featured Projects
-
-## ❤️ Heart Disease Prediction
-
-🔗 https://github.com/raw-surajit/Heart-Disease-Prediction
-
-An end-to-end Machine Learning web application that predicts the risk of heart disease using clinical parameters. Built with Python, Scikit-Learn, and Streamlit.
-
----
-
-## 🤖 AI Code Reviewer
-
-🔗 https://github.com/raw-surajit/AI-Code-Reviewer
-
-An AI-powered full-stack web application that reviews code snippets, detects bugs, suggests fixes, and provides industry-standard best practices using Google Gemini 2.0 Flash.
-
----
-
-## ☀️ Dual Axis Solar Tracking System
-
-🔗 https://github.com/raw-surajit/Dual-Axis-Solar-Tracker
-
-Arduino-controlled dual-axis solar tracking and power management system designed to maximize solar energy harvesting efficiency.
-
----
-
-## 🩺 IoT Based Health Monitoring System
-
-🔗 https://github.com/raw-surajit/IOT-Health-Monitor
-
-ESP32-powered health monitoring device capable of tracking heart rate, SpO2, and environmental conditions with real-time cloud visualization.
-
----
-
-## 🛒 AI Grocery Assistant
-
-🔗 https://github.com/raw-surajit/AI-Grocery-Assistant
-
-AI-powered grocery list generation web app built with Flask and Groq (Llama 3.3) for ultra-fast AI responses.
-
----
-
-## ☁️ Drive
-
-🔗 https://github.com/raw-surajit/drive
-
-A minimalist Google Drive clone built using Node.js and Supabase.
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=tokyonight" alt="Surajit's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=tokyonight" alt="Surajit's Top Languages" />
 </div>
 
+---
 
+## `> whoami`
 
+```yaml
+name:        Surajit Roy
+role:        AI Engineer & Full Stack Developer
+education:   B.Tech — Electronics & Communication Engineering (ECE)
+focus:       Full Stack · Artificial Intelligence · Generative AI · IoT
+mission:     Ship production-grade software that solves real problems.
+status:      Building · Learning · Shipping 🚀
+```
+
+> *"I come from hardware — ECE gave me a systems-level perspective that most developers lack. Now I build the software layer, from database to LLM, and everything in between."*
 
 ---
 
-# 🏆 GitHub Trophies
+## `> mission.md`
 
-![](https://github-profile-trophy.vercel.app/?username=raw-surajit\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
+<table>
+<tr>
+<td width="50%">
+
+**The Problem I'm Solving**
+
+Most developers build features. I build **systems** — end-to-end pipelines where AI, backend logic, and elegant frontends converge into products people actually use.
+
+My ECE background means I think in signals, feedback loops, and optimization. That translates to software that's not just functional — it's *efficient*.
+
+</td>
+<td width="50%">
+
+**What Drives Me**
+
+The convergence of AI and software engineering is the most important shift since the internet. I'm not just watching it — I'm actively building at that frontier: integrating LLMs, building intelligent APIs, and shipping tools that leverage Gemini, GPT, and Llama models into real applications.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🐍 Contribution Snake
+## `> current_focus.sh`
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+```bash
+$ cat current_focus.txt
+
+[▓▓▓▓▓▓▓▓░░] Deepening React + Node.js production architecture
+[▓▓▓▓▓▓▓░░░] LLM integration patterns & prompt engineering
+[▓▓▓▓▓░░░░░] Vector databases & RAG-based applications
+[▓▓▓▓░░░░░░] System design for scalable web applications
+[▓▓▓▓▓▓░░░░] Open source contributions & developer community
+```
 
 ---
 
-# ✨ Random Dev Quote
+## `> tech_stack --verbose`
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<details>
+<summary><b>🧠 AI / ML / LLM Stack</b> — click to expand</summary>
+<br>
+
+| Layer | Technology | Usage |
+|-------|-----------|-------|
+| **LLM APIs** | OpenAI · Gemini 2.0 Flash · Groq (Llama 3.3) | Agentic apps, code review, assistants |
+| **ML Framework** | TensorFlow · Scikit-Learn | Predictive models, classification |
+| **NLP** | Custom pipelines + LLM tooling | Text processing, chat interfaces |
+| **Data** | Pandas · NumPy · Matplotlib · Seaborn · Plotly | EDA, visualization, preprocessing |
+
+</details>
+
+<details>
+<summary><b>⚡ Full Stack Architecture</b> — click to expand</summary>
+<br>
+
+| Layer | Technology |
+|-------|-----------|
+| **Frontend** | React · HTML5 · CSS3 · Streamlit |
+| **Backend** | Node.js · Express.js · Flask |
+| **Databases** | PostgreSQL · MongoDB · MySQL · SQL Server · Supabase |
+| **Languages** | Python · JavaScript · C · C++ |
+
+</details>
+
+<details>
+<summary><b>🛠 Tools & Ecosystem</b> — click to expand</summary>
+<br>
+
+| Category | Tools |
+|----------|-------|
+| **Dev Environment** | VS Code · Git · Google Colab |
+| **Design** | Figma · Canva |
+| **Hardware / Embedded** | Arduino IDE · MATLAB |
+
+</details>
 
 ---
 
-# 👀 Visitor Count
+## `> projects --featured --sort=impact`
 
-![](https://komarev.com/ghpvc/?username=raw-surajit\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ❤️ Heart Disease Prediction
+> *ML · Python · Streamlit · Scikit-Learn*
+
+End-to-end ML web application that predicts cardiovascular disease risk from clinical parameters. Complete pipeline: data preprocessing → model training → real-time inference via Streamlit.
+
+**What makes it real:** Deployable, interpretable output with probability scores — not just a Jupyter notebook.
+
+[![View Project](https://img.shields.io/badge/View_Project-→-00f5d4?style=flat-square)](https://github.com/raw-surajit/Heart-Disease-Prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Code Reviewer
+> *Gemini 2.0 Flash · Full Stack · React*
+
+AI-powered application that reviews code, detects bugs, suggests production-quality fixes, and recommends best practices. Powered by Gemini 2.0 Flash for low-latency responses.
+
+**What makes it real:** Not a demo — an actual developer tool built with a clean frontend and structured AI output.
+
+[![View Project](https://img.shields.io/badge/View_Project-→-00f5d4?style=flat-square)](https://github.com/raw-surajit/AI-Code-Reviewer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 AI Grocery Assistant
+> *Flask · Groq · Llama 3.3*
+
+Intelligent grocery list generator powered by Llama 3.3 via Groq's ultra-fast inference API. Natural language in → structured, context-aware grocery lists out.
+
+**What makes it real:** Groq's sub-second LLM latency makes this feel like a native app, not a chatbot.
+
+[![View Project](https://img.shields.io/badge/View_Project-→-00f5d4?style=flat-square)](https://github.com/raw-surajit/AI-Grocery-Assistant)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Drive
+> *Node.js · Supabase · PostgreSQL*
+
+Minimal, production-grade Google Drive clone. File upload, storage, and retrieval — built on Supabase's real-time PostgreSQL backbone.
+
+**What makes it real:** Clean architecture that actually works — not a tutorial, a real storage application.
+
+[![View Project](https://img.shields.io/badge/View_Project-→-00f5d4?style=flat-square)](https://github.com/raw-surajit/drive)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☀️ Dual Axis Solar Tracker
+> *Arduino · Embedded C · IoT Hardware*
+
+Hardware + firmware system for autonomous dual-axis solar panel tracking using servo motors and light-dependent resistors. Maximizes energy yield through real-time sun-following.
+
+**What makes it real:** From circuit design to deployed hardware — ECE meets software engineering.
+
+[![View Project](https://img.shields.io/badge/View_Project-→-00f5d4?style=flat-square)](https://github.com/raw-surajit/Dual-Axis-Solar-Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 IoT Health Monitor
+> *ESP32 · Cloud Integration · Sensors*
+
+ESP32-based wearable system monitoring heart rate, SpO2, and environmental metrics in real time. Data streams to cloud for remote visualization and alerting.
+
+**What makes it real:** End-to-end IoT pipeline — sensor → microcontroller → cloud → dashboard.
+
+[![View Project](https://img.shields.io/badge/View_Project-→-00f5d4?style=flat-square)](https://github.com/raw-surajit/IOT-Health-Monitor)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> philosophy.txt`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   01  Ship working software. Not perfect software.         │
+│                                                             │
+│   02  Every project should solve a real problem.           │
+│       If it doesn't, build something else.                 │
+│                                                             │
+│   03  AI is a tool, not a magic wand. Understanding        │
+│       the fundamentals makes you a better AI engineer.     │
+│                                                             │
+│   04  Read the error. All of it.                           │
+│                                                             │
+│   05  Hardware teaches patience. Software teaches          │
+│       iteration. I practice both.                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> roadmap --ai-fullstack`
+
+```
+2024 ──────────────────────────────────────────────────────── 2026+
+
+[DONE]  ✓  Full Stack foundations (React / Node / Express)
+[DONE]  ✓  ML production apps (Scikit-Learn + Streamlit)
+[DONE]  ✓  LLM API integration (Gemini · OpenAI · Groq)
+[DONE]  ✓  IoT + Cloud pipeline (ESP32 + Cloud DB)
+[DONE]  ✓  Supabase + PostgreSQL backend architecture
+
+[ACTIVE] → RAG systems & vector search (Pinecone / pgvector)
+[ACTIVE] → System design & scalable API architecture
+[ACTIVE] → Open source contributions
+
+[NEXT]  ◎  Agentic AI workflows (LangChain / LlamaIndex)
+[NEXT]  ◎  DevOps fundamentals (Docker · CI/CD · GitHub Actions)
+[NEXT]  ◎  TypeScript + Next.js full-stack apps
+[NEXT]  ◎  Contributing to AI/ML open source projects
+```
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raw-surajit&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&border_color=21262d&hide_border=false&rank_icon=github&show=reviews,discussions_started" width="48%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-surajit&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&border_color=21262d&hide_border=false" width="48%" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=raw-surajit&theme=dark&background=0d1117&border=21262d&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=8b949e" width="60%" alt="GitHub Streak" />
+</div>
+
+---
+
+## `> contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## `> trophies`
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=raw-surajit&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
+
+</div>
+
+---
+
+## `> quote --random`
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## `> contact --open-to-opportunities`
+
+<div align="center">
+
+```
+I'm actively looking for software engineering internships
+and full-time roles in Full Stack Development, AI Engineering,
+or anything at their intersection.
+
+Let's build something that matters.
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajit-roy-049271294)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-See_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raw-surajit)
+
+<br>
+
+```
+⚡  Code. Build. Ship. Repeat.
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ “Code. Build. Deploy. Repeat.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a0f,100:00f5d4&height=120&section=footer&text=&animation=fadeIn" />
+
+<sub>Designed with intent · Built with purpose · Shipped with pride</sub>
 
 </div>
